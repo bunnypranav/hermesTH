@@ -1,4 +1,4 @@
-27232046149870767
+27239145960477492
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107940,6 +107940,13 @@ XIAO-RP2040-SMD
 20
 20
 hermesExtraFoot
+KEY-SMD_6P-L7.0-W7.0-P2.54-LS10.6
+
+
+0
+6
+6
+hermesExtraFoot
 LCD-SMD_N069-9616TSWPG02-H14
 
 
@@ -107954,6 +107961,13 @@ LCD-SMD_N096-6428TSWMG01-H13
 13
 13
 hermesExtraFoot
+OLED-TH_HS96L01W4S03
+
+
+0
+7
+7
+hermesExtraFoot
 SENSOR-SMD-6_AHT20
 
 
@@ -107967,3 +107981,17 @@ STM32F103C8T6
 0
 40
 40
+hermesExtraFoot
+VLGA-12_L2.0-W2.0-P0.50-BL
+
+
+0
+12
+12
+hermesExtraFoot
+XIAO-RP2040-DIP
+
+
+0
+28
+14

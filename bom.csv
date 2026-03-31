@@ -1,2 +1,4 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"JLC PCB and Assemby","The whole project is in once PCBA, with shipping",1,39.00,"https://jlcpcb.com/","JLCPCB"
+"XIAO RP2040","Main MCU",1,6.70,"https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/","Robu"
+"OLED Screen","Displaying the stats collected",1,1.90,"https://robu.in/product/0-96-oled-display-module-spi-i2c-128x64-7-pin-blue/","Robu"
+"JLC PCB and Assemby","PCBA of SMD sensors, caps and resistors",1,37.50,"https://jlcpcb.com/","JLCPCB"

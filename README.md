@@ -1,4 +1,5 @@
 # Bunny's Hermes-TH
+![alt text](Images/built.png)
 ![alt text](Images/image.png)
 
 Hermes-TH is a small PCB that combines a temperature and humidity sensor, pressure sensor, and accelerometer, specifically the AHT20-F, AGR10, STK8328-C with a tiny OLED display, all controlled by a XIAO RP2040. The idea was to make a simple I2C-based board that reads environmental data that actually matters in my life, namely temperature, humidity, and pressure (unlike carbon monoxide for example), and displays it directly on a screen.

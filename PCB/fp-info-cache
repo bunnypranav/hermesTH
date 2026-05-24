@@ -1,4 +1,4 @@
-27239145960477492
+27242698594441554
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107960,6 +107960,20 @@ LCD-SMD_N096-6428TSWMG01-H13
 0
 13
 13
+hermesExtraFoot
+LGA-8_L3.8-W3.6-P0.90-TL_WF183D
+
+
+0
+8
+8
+hermesExtraFoot
+MODULE_RP2040-ZERO
+
+
+0
+23
+23
 hermesExtraFoot
 OLED-TH_HS96L01W4S03
 
